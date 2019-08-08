@@ -1,0 +1,150 @@
+/*==========INCLUDE CUSTOM CSS right here==============*/
+
+<style>
+      
+
+h1 {
+  font-family: "Segoe UI", Times, serif!important;
+  font-size: 4.0em!important;
+  font-weight: normal!important;
+  margin-bottom: -10px!important;
+}
+
+h2 {
+  font-family: "Segoe UI", Times, serif!important;
+font-size: 2.3em!important;
+font-weight: normal!important;
+margin-bottom: 20px!important;
+}
+
+h3 {
+  font-family: "Segoe UI", Times, serif!important;
+font-size: 1.6em!important;
+font-weight: normal!important;
+margin-bottom: 20px!important;
+margin-top: 10px!important;
+}
+
+
+a:link {color: #576794;}
+a:visited {color: #2B6597;}
+a:hover {color: #2B6597; text-decoration: underline;}
+a:active {color: #2B6597;}
+
+
+p {
+  font-family: "Segoe UI", Times, serif!important;
+  font-size: 1.3em!important;
+  font-weight: normal!important;
+  margin-left: 2px!important;
+  margin-right: 2px!important;
+}
+
+.ul-content {
+  font-family: "Segoe UI", Times, serif!important;
+  font-size: 1.3em!important;
+  font-weight: normal!important;
+  margin-left: 40px!important;
+  margin-bottom: 25px!important;
+}
+
+.breadcrumb {
+  color: black!important;
+  margin-left: 10px!important;
+  font-size: 1.1em!important;
+}
+
+.breadcrumb a:link {color: black;}
+.breadcrumb a:visited {color: black;}
+.breadcrumb a:hover {color: #ccc;}
+.breadcrumb a:active {color: black;}
+
+.ul-content {
+  font-family: "Segoe UI", Times, serif!important;
+  font-size: 1.3em!important;
+  font-weight: normal!important;
+  margin-left: 40px!important;
+  margin-bottom: 25px!important;
+}
+
+
+.jumbotron-bg {
+  background-image: url("http://www.gcpedia.gc.ca/gcwiki/images/5/54/Fmt-banner.jpg"); /* The image used */
+  background-color: #ececec; /* Used if the image is unavailable */
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
+}
+
+.jumbotron-bg p {
+  font-size: 2.0em!important;
+  margin-top: 32px;
+  line-height: 130%;
+}
+
+/*==========MAIN CONTENT STARTS==============*/
+
+.bg-white {
+  padding-top: 15px;
+  padding-bottom: 60px;
+}
+
+.bg-gray {
+  background-color: #ececec; /* Used if the image is unavailable */
+  padding-top: 15px;
+  padding-bottom: 60px;
+}
+
+.bg-dark-gray {
+  background-color: #505050; /* Used if the image is unavailable */
+  padding-top: 15px;
+  padding-bottom: 60px;
+  color: #fff;
+}
+
+.bg-wwd {
+  background-image: url("http://www.gcpedia.gc.ca/gcwiki/images/4/4f/GCfm-what-we-do.jpg"); /* The image used */
+  background-color: #ececec; /* Used if the image is unavailable */
+  height: 500px; /* You must set a specified height */
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
+  padding-top: 30x;
+  color: #fff;
+  
+}
+
+.bg-wwd h2{
+  font-family: "Segoe UI", Times, serif!important;
+  font-size: 2.3em!important;
+  font-weight: normal!important;
+  font-color: #fff!important;
+  padding-top: 15px!important;
+}
+
+.bg-wwd h3{
+  font-family: "Segoe UI", Times, serif!important;
+  font-size: 1.3em!important;
+  font-weight: normal!important;
+  font-color: #fff!important;
+}
+
+/*==========MAIN CONTENT ENDS==============*/
+
+
+.left-border-box {
+  border-left: 8px solid #ccc ;
+  padding-left: 15px;
+  min-height: 150px!important;
+}
+
+footer {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+}
+
+footer p {
+  margin-bottom: .25rem;
+}
+
+</style>
