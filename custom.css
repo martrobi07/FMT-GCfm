@@ -1,5 +1,3 @@
-/*==========INCLUDE CUSTOM CSS right here==============*/
-
 h1 {
   font-family: "Segoe UI", Times, serif!important;
   font-size: 4.0em!important;
@@ -79,8 +77,6 @@ p {
   line-height: 130%;
 }
 
-/*==========MAIN CONTENT STARTS==============*/
-
 .bg-white {
   padding-top: 15px;
   padding-bottom: 60px;
@@ -125,8 +121,6 @@ p {
   font-weight: normal!important;
   font-color: #fff!important;
 }
-
-/*==========MAIN CONTENT ENDS==============*/
 
 
 .left-border-box {
