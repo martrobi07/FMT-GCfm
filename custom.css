@@ -77,6 +77,8 @@ p {
   line-height: 130%;
 }
 
+/*==========MAIN CONTENT STARTS==============*/
+
 .bg-white {
   padding-top: 15px;
   padding-bottom: 60px;
@@ -96,13 +98,13 @@ p {
 }
 
 .bg-wwd {
-  background-image: url("http://www.gcpedia.gc.ca/gcwiki/images/4/4f/GCfm-what-we-do.jpg"); /* The image used */
-  background-color: #ececec; /* Used if the image is unavailable */
-  height: 500px; /* You must set a specified height */
-  background-position: center; /* Center the image */
-  background-repeat: no-repeat; /* Do not repeat the image */
-  background-size: cover; /* Resize the background image to cover the entire container */
-  padding-top: 30x;
+  background-image: url("http://www.gcpedia.gc.ca/gcwiki/images/4/4f/GCfm-what-we-do.jpg");
+  background-color: #ececec;
+  height: 500px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-top: 30px;
   color: #fff;
   
 }
@@ -111,7 +113,7 @@ p {
   font-family: "Segoe UI", Times, serif!important;
   font-size: 2.3em!important;
   font-weight: normal!important;
-  font-color: #fff!important;
+  color: #fff!important;
   padding-top: 15px!important;
 }
 
@@ -119,8 +121,10 @@ p {
   font-family: "Segoe UI", Times, serif!important;
   font-size: 1.3em!important;
   font-weight: normal!important;
-  font-color: #fff!important;
+  color: #fff!important;
 }
+
+/*==========MAIN CONTENT ENDS==============*/
 
 
 .left-border-box {
